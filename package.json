@@ -1,0 +1,29 @@
+{
+  "name": "eat-da-burger-using-sequelize",
+  "version": "1.0.0",
+  "description": "This is a single page webapp used to track the burgers you want to eat and the burgers you've eaten. It uses HandlebarsJS to build semantic templates, and MySQL as the database, with Sequelize as the ORM.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MannaNna/Eat-Da-Burger-Using-Sequelize.git"
+  },
+  "author": "Mariana Secu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MannaNna/Eat-Da-Burger-Using-Sequelize/issues"
+  },
+  "homepage": "https://github.com/MannaNna/Eat-Da-Burger-Using-Sequelize#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.4.5",
+    "method-override": "^3.0.0",
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.21.1"
+  }
+}
