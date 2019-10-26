@@ -1,6 +1,8 @@
 # Eat-Da-Burger-Using-Sequelize
 This is a single page webapp used to track the burgers you want to eat and the burgers you've eaten. It uses HandlebarsJS to build semantic templates, and MySQL as the database, with Sequelize as the ORM.
 
+Here is the link to Heroku : https://eat-da-burger-using-sequelize.herokuapp.com/burgers
+
 ## Built With
 
 * [Sequelize](http://docs.sequelizejs.com) - The database ORM used
